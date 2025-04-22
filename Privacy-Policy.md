@@ -2,8 +2,6 @@
 
 Privacy Policy – Lie Detector
 
-Effective Date: [01-03-2025]
-
 Introduction
 The Lie Detector Fun Prank app is designed purely for entertainment purposes. While we prioritize your privacy, we do collect certain non-personal information to improve app functionality, ensure security, and provide relevant advertising experiences.
 
