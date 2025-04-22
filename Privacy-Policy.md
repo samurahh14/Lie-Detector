@@ -1,6 +1,7 @@
-# Lie-Detector
+# Lie Detector - Funny Prank
 
-Privacy Policy – Lie Detector App
+Privacy Policy – Lie Detector
+
 Effective Date: [01-03-2025]
 
 Introduction
